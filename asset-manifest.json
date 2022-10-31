@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sajad-mhr/SmartCard/static/css/main.5c36f1c0.css",
+    "main.js": "/sajad-mhr/SmartCard/static/js/main.8ca4a8fd.js",
+    "static/media/atr_omid.png": "/sajad-mhr/SmartCard/static/media/atr_omid.92880341bc5dbd1645ed.png",
+    "static/media/reza.png": "/sajad-mhr/SmartCard/static/media/reza.f1b64523381e6fa5344c.png",
+    "static/media/profile.jfif": "/sajad-mhr/SmartCard/static/media/profile.81ddd768252450c844a4.jfif",
+    "static/media/Vazir.ttf": "/sajad-mhr/SmartCard/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/IRAN Sans Bold.ttf": "/sajad-mhr/SmartCard/static/media/IRAN Sans Bold.038bb4e3a03d1d3b5738.ttf",
+    "static/media/IRAN Sans Regular.ttf": "/sajad-mhr/SmartCard/static/media/IRAN Sans Regular.6f13ecb61741de2b3ed6.ttf",
+    "static/media/logo-Shahab-512.png": "/sajad-mhr/SmartCard/static/media/logo-Shahab-512.9a3340fed65e8112de59.png",
+    "static/media/weather-news.png": "/sajad-mhr/SmartCard/static/media/weather-news.9fd27622bf1ed32c75ac.png",
+    "index.html": "/sajad-mhr/SmartCard/index.html",
+    "static/media/Vector 19.svg": "/sajad-mhr/SmartCard/static/media/Vector 19.0639484fde6258ef1b38.svg",
+    "static/media/Vector 20.svg": "/sajad-mhr/SmartCard/static/media/Vector 20.1c71affd43de626bde5d.svg",
+    "static/media/Vector 18.svg": "/sajad-mhr/SmartCard/static/media/Vector 18.39301dc01209c2e1eda2.svg",
+    "static/media/Vector 21.svg": "/sajad-mhr/SmartCard/static/media/Vector 21.333edf8a2e35bd0280b2.svg",
+    "main.5c36f1c0.css.map": "/sajad-mhr/SmartCard/static/css/main.5c36f1c0.css.map",
+    "main.8ca4a8fd.js.map": "/sajad-mhr/SmartCard/static/js/main.8ca4a8fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c36f1c0.css",
+    "static/js/main.8ca4a8fd.js"
+  ]
+}
